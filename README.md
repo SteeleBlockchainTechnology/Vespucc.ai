@@ -38,7 +38,7 @@ Vespucci.ai follows a modular architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/vespucci.ai.git
+git clone https://github.com/SteeleBlockchainTechnology/Vespucci.ai.git
 cd vespucci.ai/mcp
 
 # Install dependencies using Poetry
